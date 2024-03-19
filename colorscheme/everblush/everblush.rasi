@@ -1,0 +1,12 @@
+//  everblush
+*{
+  bg: #141b1e;
+  bg-alt: #232a2d;
+  
+  fg: #8ccf7e;
+  fg-alt: #67b0e8;
+
+  urgent: #e57474;
+
+  background-color: @bg;
+}
